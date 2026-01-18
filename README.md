@@ -16,12 +16,12 @@ Unlike conventional detectors requiring retraining or post-processing (e.g., NMS
 
 ## 🖼️ Architecture Overview
 
-![ABDD Framework](./assets/Architecture.png)
+![ABDD Framework](./Architecture.png)
 
 *Figure 1: Overall architecture of ABDD, featuring the SSDM backbone, dual-alignment strategy (DAS), and uncertainty-aware box filtering (UBF).*
 
 ---
-![ABDD Adaptation Algorithm](./assets/Algorithm.png)
+![ABDD Adaptation Algorithm](./Algorithm.png)
 
 *Figure 2: Pseudocode of the ABDD test-time adaptation algorithm with Dual-Alignment Strategy (DAS).*
 
