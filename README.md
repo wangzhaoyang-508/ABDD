@@ -64,8 +64,6 @@ If you find ABDD useful in your research or application, please cite our work:
 ```bibtex
 @article{abdd2026,
   title={ABDD: Aero-engine Blade Defect Detector with Dual-Alignment Test-Time Adaptation},
-  author={Zhaoyang Wang, Haiyong Chen, Yining Wang, Binyi Su, ATIK SHAHARIAR},
-  journal={IEEE Transactions on Circuits and Systems for Video Technology},
   year={2026}
 }
 ```
